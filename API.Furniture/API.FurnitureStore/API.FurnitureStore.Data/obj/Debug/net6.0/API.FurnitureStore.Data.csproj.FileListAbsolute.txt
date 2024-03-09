@@ -1,0 +1,17 @@
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Data.deps.json
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Data.runtimeconfig.json
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Data.dll
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Data.pdb
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Shared.dll
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Shared.pdb
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.csproj.AssemblyReference.cache
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.AssemblyInfoInputs.cache
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.AssemblyInfo.cs
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.csproj.CoreCompileInputs.cache
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.csproj.CopyComplete
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.dll
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\refint\API.FurnitureStore.Data.dll
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.pdb
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.genruntimeconfig.cache
+C:\.NETServer\LoginAPI_.NET\API.Furniture\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\ref\API.FurnitureStore.Data.dll

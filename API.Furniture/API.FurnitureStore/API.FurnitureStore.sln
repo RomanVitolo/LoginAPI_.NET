@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.FurnitureStore.API", "API.FurnitureStore.API\API.FurnitureStore.API.csproj", "{8641B515-C7B9-45D9-AB04-D5446F24B9D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.FurnitureStore.Shared", "API.FurnitureStore.Shared\API.FurnitureStore.Shared.csproj", "{4703BB8A-4826-4512-BFA9-1475F94B10E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.FurnitureStore.Data", "API.FurnitureStore.Data\API.FurnitureStore.Data.csproj", "{413708C7-0A68-4B09-B588-A7018C26DA8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{8641B515-C7B9-45D9-AB04-D5446F24B9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8641B515-C7B9-45D9-AB04-D5446F24B9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8641B515-C7B9-45D9-AB04-D5446F24B9D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4703BB8A-4826-4512-BFA9-1475F94B10E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4703BB8A-4826-4512-BFA9-1475F94B10E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4703BB8A-4826-4512-BFA9-1475F94B10E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4703BB8A-4826-4512-BFA9-1475F94B10E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{413708C7-0A68-4B09-B588-A7018C26DA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413708C7-0A68-4B09-B588-A7018C26DA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413708C7-0A68-4B09-B588-A7018C26DA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413708C7-0A68-4B09-B588-A7018C26DA8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
