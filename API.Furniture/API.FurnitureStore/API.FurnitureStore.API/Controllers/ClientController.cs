@@ -41,8 +41,8 @@ public class ClientController : ControllerBase
         return CreatedAtAction("Post", client.Id, client);
     }
 
-    [HttpPut("{id}")]
-    public async Task<IActionResult> Put(int id, Client client)
+    [HttpPut]
+    public async Task<IActionResult> Put(Client client)
     {
         _context.Clients.Update(client);
 
@@ -51,8 +51,7 @@ public class ClientController : ControllerBase
         return NoContent();
     }
 
-    [HttpDelete]
-
+    [HttpDelete]           
     public async Task<IActionResult> Delete(Client client)
     {
         if (client == null) return NotFound();
